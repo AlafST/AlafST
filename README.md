@@ -13,7 +13,7 @@
 
 ### Conecte-se comigo:
 <p>
-<a href="linkedin.com/in/alaf-santos-silva">
+<a href="www.linkedin.com/in/alaf-santos-silva">
 <img align="left" alt="icone do linkedin" width="25px" src="https://th.bing.com/th/id/OIP.FPjQ2OolWgNHEDLXkIf98AHaF2?w=220&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7">
 </p>
 <br/>
