@@ -14,7 +14,15 @@
 ### Conecte-se comigo:
 <p>
 <a href="https://www.linkedin.com/in/alaf-santos-silva" target="#">
-<img align="left" alt="icone do linkedin" width="25px" src="https://th.bing.com/th/id/OIP.FPjQ2OolWgNHEDLXkIf98AHaF2?w=220&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+<img align="left" alt="icone do linkedin" width="25px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png">
+</a>
+<a href="https://api.whatsapp.com/send?phone=5582996090854" target="#">
+<img align="left" alt="icone do whatsapp" width="25px" src="https://static.tildacdn.com/tild6537-3664-4530-a664-656339303233/Whatsapp-Clipart-PNG.png">
+</a>
+<a href="https://www.instagram.com/alaf_stos/" target="#">
+<img align="left" alt="icone do instagram" width="25px" 
+ src="https://static.vecteezy.com/system/resources/previews/024/170/870/large_2x/instagram-icon-logo-symbol-free-png.png">
+</a>
 </p>
 <br/>
 <br/>
